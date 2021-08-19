@@ -10,7 +10,7 @@
 <channel>
 	<title>Mufaddal Patanwala</title>
 	<atom:link href="http://localhost/portfolio/feed/" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link></link>
 	<description>Portfolio</description>
 	<lastBuildDate>Sun, 21 Jun 2020 08:07:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
-	<url>./../wp-content/uploads/2020/07/cropped-Minilogo-1-1-32x32.png</url>
+	<url>/wp-content/uploads/2020/07/cropped-Minilogo-1-1-32x32.png</url>
 	<title>Mufaddal Patanwala</title>
-	<link>./../index.html</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>./../2020/06/21/hello-world/index.html</link>
-					<comments>./../2020/06/21/hello-world/index.html#comments</comments>
+		<link>/2020/06/21/hello-world/</link>
+					<comments>/2020/06/21/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Mufaddal5211]]></dc:creator>
 		<pubDate>Sun, 21 Jun 2020 08:07:20 +0000</pubDate>
@@ -42,7 +42,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../2020/06/21/hello-world/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/2020/06/21/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
